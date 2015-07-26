@@ -1,4 +1,3 @@
-#! /bin/env python3.4
 def problem1(num):
 	sum = 0 
 	for i in range (num):
